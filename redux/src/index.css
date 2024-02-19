@@ -1,0 +1,12 @@
+.btn{
+    display: flex;
+    gap:30px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+*{
+    text-align: center;
+    font-size: 1.1rem;
+}
